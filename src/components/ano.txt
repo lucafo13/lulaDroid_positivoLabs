@@ -1,0 +1,2 @@
+"C:\Users\Davi\AppData\Local\Programs\Lively Wallpaper\Lively.exe" setwp --file "C:\Users\Davi\Desktop\projs\Don_Pet\src\assets\videoW.mp4"
+"%LocalAppData%\Programs\Lively Wallpaper\Lively.exe" closewp --monitor 1
